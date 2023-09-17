@@ -12,6 +12,7 @@
   ],
   "author": "sanebow",
   "dependencies": {
+    "express": "^4.18.2",
     "vue": "^3.3.4"
   },
   "devDependencies": {
