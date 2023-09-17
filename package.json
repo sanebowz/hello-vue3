@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vite build",
+    "build": "npm-run-all build:*",
     "preview": "vite preview",
     "start": "npm run build && node server"
   },
